@@ -14,8 +14,8 @@ $palette: (
 	),
 	primary: (
 		1: #3A95DC,
-		2: #ACADFF,
-		3: #3A95DC,
+		2: #307db8,
+		3: #307db8,
 		4: #E9E9FF
  	),
 	secondary: (
@@ -50,6 +50,23 @@ $color: (
 	mid-contrast-inverse: 	get-color(dark, 2),
 	low-contrast-inverse: 	get-color(light, 3)
 );
+
+::-webkit-scrollbar {
+	width: 15px;
+  }
+
+  ::-webkit-scrollbar-track {
+	background: #1c1c1c;
+  }
+
+  ::-webkit-scrollbar-thumb {
+	background: #3a95dc;
+	border-radius: 20px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+	background: #307db8;
+  }
 
 // Borders and dividers: color
 $border--color: (

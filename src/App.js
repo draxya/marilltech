@@ -8,15 +8,16 @@ import LayoutDefault from './layouts/LayoutDefault';
 
 // Views 
 import Home from './views/Home';
+import Hakkimizda from './views/Hakkimizda';
 
-const App = () => {
+function App() {
 
   const childRef = useRef();
   let location = useLocation();
 
   useEffect(() => {
     // const page = location.pathname;
-    document.body.classList.add('is-loaded')
+    document.body.classList.add('is-loaded');
     childRef.current.init();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [location]);
@@ -27,6 +28,7 @@ const App = () => {
       children={() => (
         <Switch>
           <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
+          <AppRoute exact path="/hakkimizda" component={Hakkimizda} layout={LayoutDefault} />
         </Switch>
       )} />
   );

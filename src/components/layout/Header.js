@@ -115,10 +115,7 @@ const Header = ({
                       <Link to="#0" onClick={closeMenu}>Blog</Link>
                     </li>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Sponsorluk</Link>
-                    </li>
-                    <li>
-                      <Link to="#0" onClick={closeMenu}>Hakkımızda</Link>
+                      <Link to="/hakkimizda" onClick={closeMenu}>Hakkımızda</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
