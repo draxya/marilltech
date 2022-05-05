@@ -12,4 +12,4 @@ const LayoutDefault = ({ children }) => (
   </>
 );
 
-export default LayoutDefault;  
+export default LayoutDefault;
