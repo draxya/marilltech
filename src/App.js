@@ -15,7 +15,7 @@ const App = () => {
   let location = useLocation();
 
   useEffect(() => {
-    const page = location.pathname;
+    // const page = location.pathname;
     document.body.classList.add('is-loaded')
     childRef.current.init();
     // eslint-disable-next-line react-hooks/exhaustive-deps
