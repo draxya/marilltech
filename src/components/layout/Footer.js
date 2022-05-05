@@ -40,7 +40,7 @@ const Footer = ({
           )}>
           <div className="footer-top space-between text-xxs">
             <Logo />
-            <div className="footer-copyright">Marill ROV Team, 2022.</div>
+            <div className="footer-copyright">© Marill ROV Team, 2022.</div>
             <FooterSocial />
           </div>
         </div>
