@@ -9,6 +9,8 @@ import LayoutDefault from './layouts/LayoutDefault';
 // Views 
 import Home from './views/Home';
 import Hakkimizda from './views/Hakkimizda';
+import Iletisim from './views/Iletisim';
+import Blog from './views/Blog';
 
 function App() {
 
@@ -29,6 +31,8 @@ function App() {
         <Switch>
           <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
           <AppRoute exact path="/hakkimizda" component={Hakkimizda} layout={LayoutDefault} />
+          <AppRoute exact path="/iletisim" component={Iletisim} layout={LayoutDefault} />
+          <AppRoute exact path="/blog" component={Blog} layout={LayoutDefault} />
         </Switch>
       )} />
   );
