@@ -55,10 +55,10 @@ const Testimonial = ({
     >
       <div className="container">
         <div className={innerClasses}>
-          <SectionHeader data={sectionHeader} className="center-content" />
+          <SectionHeader data={sectionHeader} className="center-content reveal-from-bottom" data-reveal-delay="200"/>
           <div className={tilesClasses}>
 
-            <div className="tiles-item reveal-from-right" data-reveal-delay="200">
+            <div className="tiles-item reveal-from-right" data-reveal-delay="400">
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
@@ -130,7 +130,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Cezeri Yeşil Teknoloji MTAL 11. sınıf öğrencisiyim. Yenilenebilir enerji sistemleri alanında, rüzgrar enerji sistemleri dalında eğitim alıyorum. Aracın mekanik tasarımı kısmında çalışmaktayım.
+                    Cezeri Yeşil Teknoloji MTAL 11. sınıf öğrencisiyim. Yenilenebilir enerji sistemleri alanında, rüzgar enerji sistemleri dalında eğitim alıyorum. Aracın mekanik tasarımı kısmında çalışmaktayım.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -147,7 +147,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Cezeri Yeşil Teknoloji MTAL 11. sınıf öğrencisiyim. Yenilenebilir enerji sistemleri alanında, rüzgar enerji sistemleri dalında eğitim alıyorum. Yenilenebilir enerji sistemlerini araştırmak adına Danimarka'da eğitim aldımç Takımın iletişim sorumlusuyum.
+                    Cezeri Yeşil Teknoloji MTAL 11. sınıf öğrencisiyim. Yenilenebilir enerji sistemleri alanında, rüzgar enerji sistemleri dalında eğitim alıyorum. Yenilenebilir enerji sistemlerini araştırmak adına Danimarka'da eğitim aldım. Takımın iletişim sorumlusuyum.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
