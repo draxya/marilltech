@@ -53,10 +53,10 @@ const Iletisim = ({
               E-Mail: <a href="mailto:info@marill.tech">info@marill.tech</a>
             </p>
             <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              Instagram: <a href="https://instagram.com/MarillROV">@MarillROV</a>
+              Instagram: <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/MarillROV">@MarillROV</a>
             </p>
             <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              Adres: <a href="https://www.google.com/maps/place/Tunahan,+211.+Cd+No:12,+06824+Etimesgut%2FAnkara">Tunahan, 211. Cd No:12, 06824 Etimesgut/Ankara</a>
+              Adres: <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/place/Tunahan,+211.+Cd+No:12,+06824+Etimesgut%2FAnkara">Tunahan, 211. Cd No:12, 06824 Etimesgut/Ankara</a>
             </p>
             
 
