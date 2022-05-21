@@ -18,7 +18,7 @@ const FooterSocial = ({
     >
       <ul className="list-reset">
       <li>
-          <a href="https://instagram.com/MarillROV">
+          <a href="https://instagram.com/marillrov">
             <svg
               width="16"
               height="16"
