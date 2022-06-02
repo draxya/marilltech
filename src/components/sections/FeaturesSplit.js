@@ -66,14 +66,14 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                /*<div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
-                  </div>
+                  </div>*/
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  CAN Bus Haberleşme Testi
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Bu yaptığımız testte kullanacağımız MCP-2515 CAN Bus modülü ile veri akışını gözlemledik.
                   </p>
               </div>
               <div className={
@@ -92,14 +92,14 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                /*<div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
-                  </div>
+                  </div>*/
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  IP Kamera Görüntü Alma Testi
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Bu testte IP kameradan aldığımız görüntüyü en sağlıklı şekilde işlemeyi başardık.
                   </p>
               </div>
               <div className={
@@ -118,14 +118,14 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+               /* <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
-                  </div>
+                  </div>*/
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Motor-ESC Sağlamlık Testi
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Kullanacağımız motor ve ESC'nin sağlamlık testini yaparak güvenilirliklerinden emin olduk. Ayrıca PWM değerleri de not edildi.
                   </p>
               </div>
               <div className={
