@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Biz Kimiz?',
+    paragraph: "Marill ROV takımı ilk kez Teknofest 2022'de yer almak üzere okulumuz Cezeri Yeşil Teknoloji Mesleki ve Teknik Anadolu Lisesi öğrencileri tarafından kurulmuştur. Takımımız bünyesinde bulunan her öğrenci, ilgi ve yeteneklerine göre görevlendirilmiştir. Takımımız beş öğrenci ve bir danışman öğretmenden oluşmaktadır. Takımımızın hedefi, tamamen özgün ve yerli bir su altı aracı üretmek ve ülkemizde bu konuya farkındalık kazandırmaktır."
   };
 
   return (
