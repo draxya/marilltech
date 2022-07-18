@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'Hakkımızda',
-    paragraph: 'Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.'
+    paragraph: 'Marill ROV takımı, Cezeri Yeşil Teknoloji Mesleki ve Teknik Anadolu Lisesi bünyesindeki çeşitli ilgi alanlarına sahip öğrenciler tarafından 2021 yılında kurulan, özgün ve yerli üretime önem veren yüksek hedeflere sahip bir insansız su altı aracı üretmeyi amaçlayan bir takımdır.'
   };
 
   return (
@@ -62,7 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    2010 Gazi Üniversitesi Elektrik Öğretmenliği, 2015 Ankara Üniversitesi Elektrik Elektronik Mühendisliği bölümlerinden mezun oldum. 2012 yılında Milli Eğitim Bakanlığı'nda Elektrik Öğretmeni olarak göreve başladım. Son 2 yıldır Cezeri Yeşil Teknoloji Mesleki ve Teknik Anadolu Lisesi'nde görev yapmaktayım.
+                    2010 Gazi Üniversitesi Elektrik Öğretmenliği, 2015 Ankara Üniversitesi Elektrik Elektronik Mühendisliği bölümlerinden mezun oldum. 2012 yılında Milli Eğitim Bakanlığı'nda Elektrik Öğretmeni olarak göreve başladım. Son 3 yıldır Cezeri Yeşil Teknoloji Mesleki ve Teknik Anadolu Lisesi'nde görev yapmaktayım.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -79,7 +79,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Cezeri Yeşil Teknoloji MTAL 11. sınıf öğrencisiyim. Yenilenebilir enerji sistemlerini araştırmak adına Danimraka'da eğitim aldım. Marill ROV takımının lideriyim, aracın mekanik ve elektronik tasarımıyla ilgileniyorum.
+                    CYTMTAL 12. sınıf öğrencisiyim. Yenilenebilir enerji sistemlerini araştırmak adına Danimraka'da eğitim aldım. Marill ROV takımının lideriyim, aracın mekanik ve elektronik tasarımıyla ilgileniyorum.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -96,7 +96,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    CYTMTAL 12. sınıf öğrencisiyim. 2019 yılı sonlarında Python, Javascript ve C++ dillerinde kendimi geliştirip web siteleri ve uygulamalar üretmeye başladım. Marill ROV projemizin masaüstü uygulaması, yazılımı ve web sitesinden sorumluyum. 
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -113,7 +113,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Cezeri Yeşil Teknoloji MTAL 11. sınıf öğrencisiyim yenilenebilir enerji sistemleri alanında, rüzgar enerjisi dalında eğitim alıyorum. Alanımda uzmanlaşmak adına Danimarka'da eğitim aldım. Aracın elektronik ve yazılım tarafında çalışmaktayım.
+                    CYTMTAL 12. sınıf öğrencisiyim yenilenebilir enerji sistemleri alanında, rüzgar enerjisi dalında eğitim alıyorum. Alanımda uzmanlaşmak adına Danimarka'da eğitim aldım. Aracın elektronik ve yazılım tarafında çalışmaktayım.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -130,7 +130,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Cezeri Yeşil Teknoloji MTAL 11. sınıf öğrencisiyim. Yenilenebilir enerji sistemleri alanında, rüzgar enerji sistemleri dalında eğitim alıyorum. Aracın mekanik tasarımı kısmında çalışmaktayım.
+                    CYMTAL 12. sınıf öğrencisiyim. Yenilenebilir enerji sistemleri alanında, rüzgar enerji sistemleri dalında eğitim alıyorum. Aracın mekanik tasarımı kısmında çalışmaktayım.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -147,7 +147,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Cezeri Yeşil Teknoloji MTAL 11. sınıf öğrencisiyim. Yenilenebilir enerji sistemleri alanında, rüzgar enerji sistemleri dalında eğitim alıyorum. Yenilenebilir enerji sistemlerini araştırmak adına Danimarka'da eğitim aldım. Takımın iletişim sorumlusuyum.
+                    CYTMTAL 12. sınıf öğrencisiyim. Yenilenebilir enerji sistemleri alanında, rüzgar enerji sistemleri dalında eğitim alıyorum. Yenilenebilir enerji sistemlerini araştırmak adına Danimarka'da eğitim aldım. Takımın iletişim sorumlusuyum.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
