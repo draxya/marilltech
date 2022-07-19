@@ -96,7 +96,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    CYTMTAL 12. sınıf öğrencisiyim. 2019 yılı sonlarında Python, Javascript ve C++ dillerinde kendimi geliştirip web siteleri ve uygulamalar üretmeye başladım. Marill ROV projemizin masaüstü uygulaması, yazılımı ve web sitesinden sorumluyum. 
+                    CYTMTAL 12. sınıf öğrencisiyim. 2019 yılı sonlarında Python, Javascript ve C++ dillerinde kendimi geliştirip web siteleri ve uygulamalar üretmeye başladım. Marill ROV projemizin masaüstü uygulaması, kontrol yazılımı ve web sitesinden sorumluyum. 
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
